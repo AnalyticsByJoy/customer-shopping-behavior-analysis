@@ -16,11 +16,11 @@ The analysis highlights several important patterns including revenue concentrati
 ### Business Objectives
 
 The analysis aims to answer key business questions:
-	1.	What factors drive total revenue?
-	2.	Which product categories and items perform best?
-	3.	How do customer demographics influence purchasing behavior?
-	4.	How effective is the subscription model?
-	5.	Where are the main growth opportunities?
+1. What factors drive total revenue?
+2. Which product categories and items perform best?
+3. How do customer demographics influence purchasing behavior?
+5. How effective is the subscription model?
+6. Where are the main growth opportunities?
 
 ### Dataset Overview
 
