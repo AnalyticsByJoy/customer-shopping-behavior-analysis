@@ -11,7 +11,13 @@
 
 [🧾 Sales Performance Analysis (Page 1)](#-sales-performance-analysis-page-1)
 
+[📦 Product Performance Analysis (Page 2)](#-product-performance-analysis-page-2)
 
+[👥 CUSTOMERS PERFORMANCE (Page 3)](#-customers-performance-page-3)
+
+[Strategic Recommendations](#strategic-recommendations)
+
+[Conclusion](#conclusion)
 
 ## Project Overview
 This project analyzes customer shopping behavior to uncover insights into sales performance, product effectiveness, and customer engagement patterns.
