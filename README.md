@@ -220,7 +220,67 @@ Recommendation:
 ### 👥 CUSTOMERS PERFORMANCE (Page 3)
 ![image](https://github.com/user-attachments/assets/2ba653eb-790a-42b1-91af-20ba9670cded)
 
-Total Customers: 3.9k
-Total Orders: 4k
-Average Spend per Customer : $60
-Repeat Customer Rate: 1.00
+- Total Customers: 3.9k
+- Total Orders: 4k
+- Average Spend per Customer : $60
+- Repeat Customer Rate: 1.00
+This shows a strong customer retention level, where most customers return to make additional purchases.
+
+###### Sales by Age
+1. 25-34 and 45-54 age group generate the highest sales.
+2. Customers aged 18-24 contribute the least revenue among active buyers.
+3. Middle-aged customers (25-54) dominate spending.
+4. Customers in the working class age range have the highest purchasing power.
+   
+Recommendation:
+- Target 25-54 age group with premium offers and loyalty programs.
+- Use student discounts or youth campaigns to grow the 18-24 segment.
+  
+###### Sales by Gender
+Male customers (67.74%) contribute over two-thirds of total revenue. The business appears to attract more male buyers or higher male spending.
+
+Recommendation:
+- Introduce marketing campaigns targeting female customers.
+- Expand female-oriented product offerings.
+  
+###### Sales by Discount
+More sales occur without discounts ($134k) and discounts still drive a significant portion of sales.
+
+Insights:
+
+Customers are willing to purchase even without price reductions, suggesting:
+- Strong product value.
+- Brand or product loyalty.
+  
+Recommendation:
+- Use discounts strategically during slow sales period.
+- Avoid over-discounting to maintain profit margins.
+
+###### Sales by Subscription
+More revenue comes from non-subscribed customers (73%).
+The subscription program may be underutilized.
+
+Recommendation:
+- Introduce exclusive benefits for subscribers.
+- Offer early product access, discount rewards, free-shipping.
+By doing these could help increase loyalty and predictable profit.
+
+###### Sales by Location
+Sales distribution across states is relatively balanced and no single state dominates overall revenue.
+Montana - $5.8k, Illinois - $5.6K, California - $5.6k, Idaho - $5.6k, Nevada - $5.5k
+The company has a diverse geographic customer base.
+
+Recommendation:
+- Identify high-potential states for regional marketing campaigns.
+- Expand advertising in top-performing locations.
+
+### STRATEGIC RECOMMENDATIONS
+1. Introduce personalized promotions based on purchase frequency.
+2. Increase marketing focus on clothing (core revenue driver).
+3. Improve customer experience to raise review ratings.
+4. Optimize inventory around size M and neutral colors.
+5. Increase Female customer engagement.
+6. Expand subscription program.
+
+### CONCLUSIONS
+The analysis shows that the business generated $233k in revenue from 3.9k customers with clothing emerging as the top-performing category. Products such as Blouses, Shirts and Dresses drive the highest sales. Customer purchases are consistent across different buying frequencies, with medium-sized items being the most demanded. Sales are also evenly distributed across payment methods and seasons, indicating stable customer behavior. A dominant middle-age purchasing segment, strong repeat customer behavior, high male spending contribution. Overall, the insights highlight opportunities to improve customer satisfaction, target younger demographics, optimize inventory and grow lower-performing product categories.
