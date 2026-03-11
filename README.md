@@ -17,7 +17,7 @@
 
 [Strategic Recommendations](#strategic-recommendations)
 
-[Conclusion](#conclusion)
+[Conclusions](#conclusions)
 
 ## Project Overview
 This project analyzes customer shopping behavior to uncover insights into sales performance, product effectiveness, and customer engagement patterns.
