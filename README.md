@@ -3,6 +3,13 @@
 ## Table Of Contents
 [Project Overview](#project-overview)
 
+[Business Objectives](#business-objectives)
+
+[Dataset Overview](#dataset-overview)
+
+[Data Preparation](#data-preparation)
+
+[🧾 Sales Performance Analysis (Page 1)](#-sales-performance-analysis-page-1)
 
 
 
