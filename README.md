@@ -1,7 +1,7 @@
 # customer-shopping-behavior-analysis
 
 ## Table Of Contents
-[Projecy Overview](#project-overview)
+[Project Overview](#project-overview)
 
 
 
@@ -91,3 +91,136 @@ Features included
 
 ### Project Insights
 
+#### 🧾 Sales Performance Analysis (Page 1)
+![image](https://github.com/user-attachments/assets/31fcb813-814b-4e29-84e5-747d33826f98)
+
+##### Key KPIs
+- Total Revenue: $233,081
+- Average Revenue per Transaction: $59.76
+- Total Customers: 3,900
+- Average Previous Purchases: 25.35
+
+###### Revenue by Purchase Frequency
+1. Highest Revenue comes from every three months ($ 35.1k)
+2. Closely followed by annually ($ 34.4k) and quarterly ($33.8k).
+3. Weekly purchases generate the least ($31.8k) but the gap is small.
+
+Insights: 
+-Customers who purchase less frequently actually generate slightly more revenue than frequent weekly buyers.
+
+Recommendations: 
+-Introduce loyalty and subscription incentives to increase purchase frequency without reducing basket value.
+ 
+###### Revenue by Category
+1. Clothing: $104k (highest)
+2. Accessories: $74k
+3. Footwear: $36k
+4. Outerwear:$19k (lowest)
+   
+Insights: 
+- Clothing contribute nearly 45% of total revenue, making it the core revenue driver.
+  
+Recommendations:
+- Expand clothing inventory and promotions.
+- Bundle low performing categories (outerwear) with clothing.
+- Cross sell accessories with clothing items.
+
+###### Top 5 Revenue Generating Items
+1. Blouse -$10.4k
+2. Shirt -$10.3k
+3. Dress -$10.3k
+4. Pants -$10.1k
+5. Jewelry -$10.0k
+   
+Insights: 
+- Top performing items are primarily clothing products, reinforcing the category dominance.
+  
+Recommendations:
+- Promote bundles (blouse + jewelry)
+- Ensure constant stock availability of top 5 items.
+- Use these items for marketing campaigns.
+ 
+
+
+### 📦 Product Performance Analysis (Page 2)
+![image](https://github.com/user-attachments/assets/c214a8e6-3fb5-487a-a37a-a123c5f4683d)
+
+
+##### Key KPIs
+- Average Review Rating: 3.75 / 5
+- Unique Items: 25
+- Best Performing Category: Clothing ($ 104.26k) 
+
+###### Revenue by Season
+Seasonal breakdown observations:
+- Spring ($28k clothing) - Highest clothing sales
+- Winter ($27k clothing) - Strong seasonal demand
+- Fall ($26k clothing) – Stable
+- Summer ($23k clothing) – Slight dip
+
+Insights:
+- Clothing performs well year round.
+- Seasonal impact exists but is not extreme
+- Outerwear increases slightly in winter/ fall as expected
+  
+Recommendation:
+- Push seasonal promotions (e.g Outerwear in winter).
+- Offer summer fashion bundles to boost summer revenue.
+
+###### Category Performance Insights
+- Clothing dominates by generating 45% of total revenue, performs strongly across all seasons and clearly the core revenue driver.
+- Accessories is the second best performer with stable contribution across seasons ads good cross selling potential with clothing.
+- Footwear and Outerwear are moderate but have consistent performance.
+- Outerwear is the lowest contributor.
+
+Recommendation:
+- The company is highly dependent on clothing sales. Diversifying growth into Accessories and Footwear could reduce category risk.
+
+###### Sales by Payment Method
+1. Credit Card - $40k
+2. Paypal - $40k
+3. Cash - $39k
+4. Debit Card - $39k
+5. Venmo - $37k
+6. Bank Transfer - $37k
+   
+Insights: 
+- Payment usage is evenly distributed.
+This means Customers are comfortable with multiple payment options and no strong dependency on a single payment channel.
+
+Recommendation:
+- Offer small incentives for digital payments to reduce cash handling.
+- Partner with digital payment providers for cashback campaigns.
+
+###### Purchases by size 
+Medium size dominates significantly with 44k.
+
+Recommendations:
+- Maintain higher inventory levels for size M
+- Avoid overstocking XL and S.
+- Use sales/discounts to clear slower sizes.
+  
+###### Top Purchase Counts
+1. Jewelry (Gray, M) - 262 purchases
+2. Coat ( Violet , M)- 228
+3. Skirt (Black , L)- 224
+4. Handbag (Charcoal , M) -224
+5. Pants (Charcoal , M) -218
+   
+Observations:
+- Medium size appears repeatedly.
+- Neutral colours (Gray, Black, Charcoal) performs best.
+- Accessories like Jewelry and handbags are high volume items.
+  
+Recommendation:
+- Stock more neutral coloured products.
+- Promote bundles (Handbag + Jewelry).
+- Focus marketing on best-selling colours.
+
+### 👥 CUSTOMERS PERFORMANCE (Page 3)
+![image](https://github.com/user-attachments/assets/2ba653eb-790a-42b1-91af-20ba9670cded)
+
+Total Customers: 3.9k
+Total Orders: 4k
+Average Spend per Customer : $60
+Repeat Customer Rate: 1.00
