@@ -241,7 +241,7 @@ Recommendation:
 - Total Orders: 4k
 - Average Spend per Customer : $60
 - Repeat Customer Rate: 1.00
-This shows a strong customer retention level, where most customers return to make additional purchases.
+It indicates a very low customer retention.
 
 ###### Sales by Age
 1. 25-34 and 45-54 age group generate the highest sales.
