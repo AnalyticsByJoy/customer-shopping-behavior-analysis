@@ -241,6 +241,7 @@ Recommendation:
 - Total Orders: 4k
 - Average Spend per Customer : $60
 - Repeat Customer Rate: 1.00
+
 It indicates a very low customer retention.
 
 ###### Sales by Age
