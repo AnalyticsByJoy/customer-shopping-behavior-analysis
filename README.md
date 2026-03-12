@@ -19,6 +19,10 @@
 
 [Conclusions](#conclusions)
 
+**Dataset Used**
+<a
+href="https://www.kaggle.com/datasets/nalisha/shopping-behaviour-and-product-ranking-dateset">kaggle</a>
+
 ## Project Overview
 This project analyzes customer shopping behavior to uncover insights into sales performance, product effectiveness, and customer engagement patterns.
 
