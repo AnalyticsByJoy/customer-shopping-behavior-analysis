@@ -1,6 +1,6 @@
 # customer-shopping-behavior-analysis
 
-## Table Of Contents
+### Table Of Contents
 [Project Overview](#project-overview)
 
 [Business Objectives](#business-objectives)
